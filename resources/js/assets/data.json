@@ -1,0 +1,77 @@
+{
+    "cities": [
+        {
+            "id": 1,
+            "name": "Tokyo",
+            "slug": "tokyo",
+            "image": "tokyo.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Yokohama",
+            "slug": "yokohama",
+            "image": "yokohama.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Kyoto",
+            "slug": "kyoto",
+            "image": "kyoto.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Osaka",
+            "slug": "osaka",
+            "image": "osaka.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Sapporo",
+            "slug": "sapporo",
+            "image": "sapporo.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Nagoya",
+            "slug": "nagoya",
+            "image": "nagoya.jpg"
+        }
+    ],
+    "tabs": [
+        {
+            "id": 1,
+            "name": "Landmark",
+            "icon": "domain"
+        },
+        {
+            "id": 2,
+            "name": "Arts and Entertainment",
+            "icon": "attractions"
+        },
+        {
+            "id": 3,
+            "name": "Event",
+            "icon": "event_note"
+        },
+        {
+            "id": 4,
+            "name": "Dining and drinking",
+            "icon": "restaurant"
+        },
+        {
+            "id": 5,
+            "name": "Gift store",
+            "icon": "redeem"
+        },
+        {
+            "id": 6,
+            "name": "Souvenir store",
+            "icon": "favorite"
+        },
+        {
+            "id": 7,
+            "name": "Hotel",
+            "icon": "hotel"
+        }
+    ]
+}
