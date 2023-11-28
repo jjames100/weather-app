@@ -75,16 +75,4 @@ const { city } = defineProps({
         height: 380px;
     }
 }
-
-/* @media (min-width: 1640px) {
-    .card > img {
-        height: 380px;
-    }
-}
-
-@media (min-width: 1128px) {
-    .card > img {
-        height: 380px;
-    }
-} */
 </style>

@@ -96,17 +96,6 @@ onMounted(() => {
                     </div>
 
                     <div class="place-cards">
-                        <!-- <div class="place-cards-grid">
-                            <div class="place-card">
-                                <img src="/images/tokyo.jpg" alt="place card" />
-
-                                <div class="details">
-                                    <p>Shibuya, Tokyo</p>
-                                    <span>Address</span>
-                                </div>
-                            </div>
-                        </div> -->
-
                         <div v-if="loading" class="loading">Loading...</div>
 
                         <div v-else-if="!places?.length" class="not-found">
